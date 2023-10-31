@@ -1,0 +1,46 @@
+@page
+@model WebApplication4.Pages.Games.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    .card {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .card-body {
+        flex-grow: 1;
+    }
+
+    .card-img {
+        height: 100%;
+        object-fit: cover;
+    }
+</style>
+
+<h1>Index</h1>
+
+<div style="text-align: center;">
+    <h2>Welcome to the game store</h2>
+</div>
+
+
+<div class="row">
+    @foreach (var item in Model.Game) {
+        <div class="col-md-3">
+            <div class="card mb-4">
+                <img src="~/Img/@item.ImageUrl" class="card-img" alt="Product Image">
+                <div class="card-body">
+                    <h5 class="card-title">@item.GameTitle</h5>
+                    <p class="card-text">@item.GameDescription</p>
+                    @* <a asp-page="./Buy" asp-route-id="@item.GameId" class="btn btn-outline-success btn-sm">Add To Cart</a> *@
+                    <a asp-page="./AddToCartCookies" asp-route-id="@item.GameId" class="btn btn-outline-success btn-sm">Add To Cart</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,25 @@
+@page
+@model WebApplication4.Pages.Games.CartDetailsModel
+
+<h1>Cart Details</h1>
+
+<p>Cart ID: @Model.Cart.CartId</p>
+
+<table class="table table-striped table-borderless table-hover">
+    <thead>
+        <tr>
+            <th>Item Serial Number</th>
+            <th>Item GameId</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cart.CartItems)
+        {
+            <tr>
+                <td>@item.SerialNumber</td>
+                <td>@item.GameId</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

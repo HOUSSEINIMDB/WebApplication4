@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication4
+build_property.RootNamespace = WebApplication4
+build_property.ProjectDir = /home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/housseinimdb/RiderProjects/WebApplication4/WebApplication4
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/AddToCartCookies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvQWRkVG9DYXJ0Q29va2llcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvQWRtaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/Buy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvQnV5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/CartDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvQ2FydERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/GameAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvR2FtZUFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/GameNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvR2FtZU5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/ListCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvTGlzdENhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Games/PanierLibre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FtZXMvUGFuaWVyTGlicmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/housseinimdb/RiderProjects/WebApplication4/WebApplication4/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q9hbpjab80

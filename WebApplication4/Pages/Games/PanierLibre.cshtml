@@ -1,0 +1,15 @@
+@page
+@model WebApplication4.Pages.Games.PanierLibreModel;
+@{
+    ViewData["Title"] = "Panier Qui Utilise les cookies";
+}
+
+<h2>Panier</h2>
+
+
+    <ul>
+        @foreach (var item in Model.CartItems)
+        {
+            <li>@item.GameId - @item.SerialNumber</li>
+        }
+    </ul>
